@@ -1,0 +1,28 @@
+img{
+    width: 640px;
+}
+.header{
+    background-color: #333333;
+    height: 64px;
+    width: 100%;
+    text-align: center;
+}
+.meme{
+   
+    width: 640px;
+    background-color: #FFFFFF;
+    margin: auto;
+    margin-top: 30px;
+    border: 1px solid #EAEAEA;
+}
+.title{
+    font-size: 48px;
+    font-weight: bold;
+    color: #AA4653;
+    margin: 30px;
+}
+.subtitle{
+    color: #000000;
+    margin: 30px;
+    margin-top: 0px;
+}
